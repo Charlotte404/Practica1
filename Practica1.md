@@ -1,5 +1,3 @@
-<div style="text-align: justify">
-</div>
 
 # Pràctica 1
 
