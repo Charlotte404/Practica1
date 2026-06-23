@@ -46,7 +46,7 @@ Seguidament, hem realitzat el diagrama de flux de la primera pràctica, aquest c
 </div>
 <br>
 
-![DIAGRAMA DE FLUX P1](Diagrama%20de%20flux_%20P1.jpeg)
+<img width="3051" height="1568" alt="Diagrama de flux_ P1" src="https://github.com/user-attachments/assets/6614ecd6-2ee3-4651-b199-1c175178f9fa" />
 
 #### **Diagrama de temps**
 
@@ -55,7 +55,7 @@ Per finalitzar aquest apartat, hem disñat el diagrama de temps de la primera pr
 </div> 
 <br>
   
-![DIAGRAMA DE TEMPS P1](./Diagrama%20de%20temps_P1.jpg)
+<img width="900" height="100" alt="Diagrama de temps_P1" src="https://github.com/user-attachments/assets/e62579d6-cb24-460a-b066-ae1a1e582aa3" />
 
 ### 3. Pregunta
 
@@ -96,13 +96,13 @@ El codi de la pujada de nota de la Práctica 1 es el següent:
 
 #### **Diagrama de flux**
 
-![DIAGRAMA DE FLUJO PUJADA DE NOTA](./Diagrama%20de%20flux_%20P1_pujarnota.jpeg)
+<img width="1733" height="894" alt="Diagrama de flux_ P1_pujarnota" src="https://github.com/user-attachments/assets/4efa12c4-4465-443e-ae6e-d35663fc1d01" />
 
 <div style="page-break-after: always;"></div>
 
 #### **Diagrama de temps**
 
-![DIAGRAMA DE TIEMPO PUJADA DE NOTA](./potenciómetro.jpg)
+<img width="783" height="100" alt="potenciómetro" src="https://github.com/user-attachments/assets/73f5c4d8-8ad6-42e5-9e0f-ffff52e2d8ce" />
 
 <div style="page-break-after: always;"></div>
 
@@ -204,7 +204,7 @@ Pel diagrama de flux, a causa del aument de complexitat del codi, hem realitzat 
 </div> 
 <br>
 
-![DIAGRAMA DE FLUJO P1_COMPL_PRINCIPAL](./Diagrama%20de%20flux_%20P1_complementaria.jpeg)
+<img width="1127" height="436" alt="Diagrama de flux_ P1_complementaria" src="https://github.com/user-attachments/assets/957ebb44-594a-45a6-80e5-4fad9a7d774a" />
 
 <div style="text-align: justify">
 Seguidament, em realitzat dos diagrames de flux diferents, un on podem veure el flux que segueix el primer bloc (el bloc de configuració) i el segon bloc (el bloc de execució o bucle prinicpal).
@@ -227,7 +227,7 @@ En el nostre segon bloc es realitza el bucle o cicle principal, on essencialment
 </div> 
 <br>
 
-![DIAGRAMA DE FLUJO P1_COMPL_BLOQUES](./_Diagrama%20de%20flux_%20P1_complementaria.jpeg)
+<img width="3666" height="2432" alt="_Diagrama de flux_ P1_complementaria" src="https://github.com/user-attachments/assets/19d69c9a-b128-4ca9-b681-6f12409084b3" />
 
 #### **Diagrama de temps**
 
@@ -271,7 +271,7 @@ Com poderm notar, després del milisegon 1000, el nostre LED no es torna a apaga
 </div> 
 <br>
 
-![DIAGRAMA DE TEMPS P1_COMPL](./Practica1_complementaria.jpg)
+<img width="1700" height="100" alt="Practica1_complementaria" src="https://github.com/user-attachments/assets/0e91d104-93ac-4ee0-8ce0-258cda67e323" />
 
 ### 3. Modificació del programa
 
